@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15529316534",
+    "project_id": "tiendalineaapp-4c-aorl",
+    "storage_bucket": "tiendalineaapp-4c-aorl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15529316534:android:9039a27afd4e531aab5617",
+        "android_client_info": {
+          "package_name": "com.example.tiendalineaapp_aorl_4c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx55XyMgiEofKC3OxUNtzHVYUA1w05DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
